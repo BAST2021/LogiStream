@@ -1,4 +1,4 @@
-📊✨ App Interativo de Regressão Logística com Streamlit
+ 📊✨ App Interativo de Regressão Logística com Streamlit
 
 Aplicação interativa desenvolvida com Streamlit para treinar e visualizar modelos de Regressão Logística em tempo real.
 Um projeto ideal para estudantes, professores e profissionais que desejam demonstrar Machine Learning de forma prática, visual e acessível. 🚀
@@ -71,12 +71,4 @@ Matplotlib / Seaborn	Visualização da matriz de confusão
 
 
 
-▶️ Como Executar Localmente
-1️⃣ Clone o repositório
-git clone https://github.com/seu-usuario/seu-repositorio.git
 
-2️⃣ Instale as dependências
-pip install -r requirements.txt
-
-3️⃣ Execute o app
-streamlit run main.py
